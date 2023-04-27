@@ -1,0 +1,11 @@
+import 'package:flutter/material.dart';
+const Color bgcolor = Colors.black;
+const text1 = TextStyle(color: Colors.white,fontSize: 24,fontWeight: FontWeight.w900,letterSpacing: 1);
+const showdialogtext1 = TextStyle(color: Colors.black,fontSize: 18,fontWeight: FontWeight.w500,letterSpacing: 1);
+const songnametext = TextStyle(color: Colors.white,fontSize: 18,fontWeight: FontWeight.w500,letterSpacing: 1);
+const settingsText = TextStyle(color: Colors.blue,fontSize: 18,fontWeight: FontWeight.w500,letterSpacing: 1);
+const width10 = SizedBox(width: 10);
+const libraryText= TextStyle(color: Color.fromARGB(255, 174, 152, 177),fontSize: 18,fontWeight: FontWeight.w500,letterSpacing: 1);
+const libraryText2= TextStyle(color: Color.fromRGBO(2, 2, 32, 0.949),fontSize: 20,fontWeight: FontWeight.w500,letterSpacing: 2);
+const libraryText3= TextStyle(color: Color.fromARGB(255, 239, 245, 241),fontSize: 18,fontWeight: FontWeight.w500,letterSpacing: 1);
+ const libraryHeadingText = TextStyle(fontSize: 20, fontWeight: FontWeight.bold,letterSpacing: 1);
